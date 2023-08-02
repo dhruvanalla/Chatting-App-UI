@@ -1,0 +1,277 @@
+.exclude-icon6,
+.exclude-icon7 {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.exclude-icon7 {
+  width: 15.33px;
+  height: 11px;
+}
+.rectangle6,
+.vector-icon4 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.vector-icon4 {
+  height: 36.36%;
+  width: 5.39%;
+  top: 36.36%;
+  right: 0;
+  bottom: 27.27%;
+  left: 94.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.rectangle6 {
+  height: 100%;
+  width: 89.21%;
+  top: 0;
+  right: 10.79%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-darkslateblue);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.rectangle7 {
+  position: absolute;
+  height: 63.64%;
+  width: 72.99%;
+  top: 18.18%;
+  right: 18.9%;
+  bottom: 18.18%;
+  left: 8.11%;
+  border-radius: 1.33px;
+  background-color: var(--color-darkslateblue);
+}
+.group3 {
+  height: 25%;
+  width: 6.58%;
+  top: 38.64%;
+  right: 6.49%;
+  bottom: 36.36%;
+  left: 86.93%;
+}
+.div5,
+.frame3,
+.group3 {
+  position: absolute;
+}
+.div5 {
+  width: 100%;
+  top: calc(50% - 4.5px);
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame3 {
+  height: 47.73%;
+  width: 14.4%;
+  top: 15.91%;
+  right: 80%;
+  bottom: 36.36%;
+  left: 5.6%;
+}
+.status-bar3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(20px);
+  width: 375px;
+  height: 44px;
+  font-size: var(--font-size-mini);
+  font-family: var(--font-roboto);
+}
+.back-icon3 {
+  position: absolute;
+  top: 61px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.line-42-stroke {
+  position: absolute;
+  top: 11px;
+  left: 115px;
+  width: 50px;
+  height: 8px;
+}
+.sign-up-with {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 18px;
+}
+.sign-up-uihut {
+  position: absolute;
+  top: 145px;
+  left: 105px;
+  width: 165px;
+  height: 19px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-raleway);
+}
+.enter-your-details,
+.password {
+  position: absolute;
+  letter-spacing: 0.1px;
+}
+.enter-your-details {
+  top: 181px;
+  left: 31px;
+  line-height: 20px;
+  font-weight: 300;
+  display: inline-block;
+  width: 293px;
+}
+.password {
+  top: 0;
+  left: 0;
+  line-height: 14px;
+  font-weight: 500;
+}
+.password-uihut-child {
+  position: absolute;
+  top: 57.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+}
+.confirm-password-uihut,
+.password-uihut {
+  position: absolute;
+  top: 467px;
+  left: 24px;
+  width: 327px;
+  height: 58px;
+  text-align: left;
+}
+.confirm-password-uihut {
+  top: 555px;
+}
+.your-email {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  font-weight: 500;
+  text-align: center;
+}
+.email-uihut-child {
+  position: absolute;
+  top: 57.5px;
+  left: 0.5px;
+  border-top: 1px solid var(--color-red);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+}
+.invalid-email-address {
+  position: absolute;
+  top: 66px;
+  left: 215px;
+  font-size: var(--font-size-xs);
+  line-height: 12px;
+  font-weight: 100;
+}
+.nazrulmumuihutcom {
+  position: absolute;
+  top: 30px;
+  left: 1px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+}
+.email-uihut {
+  position: absolute;
+  top: 369px;
+  left: 23px;
+  width: 329px;
+  height: 78px;
+  text-align: left;
+  color: var(--color-red);
+}
+.name-uihut-child {
+  position: absolute;
+  top: 57.5px;
+  left: 1.5px;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+}
+.nazrul-islam {
+  position: absolute;
+  top: 30px;
+  left: 2px;
+  font-size: var(--font-size-base);
+  line-height: 16px;
+  font-family: var(--font-poppins);
+  color: var(--color-gray-300);
+  text-align: left;
+}
+.mokx-logo-2,
+.name-uihut {
+  position: absolute;
+  top: 281px;
+  left: 22px;
+  width: 329px;
+  height: 58px;
+}
+.mokx-logo-2 {
+  top: 69px;
+  left: 148px;
+  width: 72px;
+  height: 64px;
+  object-fit: cover;
+}
+.create-account-uihut-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod);
+  width: 340px;
+  height: 54px;
+}
+.create-an-account {
+  position: absolute;
+  top: 15px;
+  left: 81px;
+  font-weight: 500;
+  display: inline-block;
+  width: 180px;
+  height: 24px;
+}
+.create-account-uihut {
+  position: absolute;
+  top: 721px;
+  left: 17px;
+  width: 340px;
+  height: 54px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-kumbh-sans);
+}
+.sign-up-1 {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-inter);
+}

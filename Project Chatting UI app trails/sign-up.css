@@ -1,0 +1,238 @@
+.exclude-icon16,
+.exclude-icon17 {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.exclude-icon17 {
+  width: 15.33px;
+  height: 11px;
+}
+.rectangle16,
+.vector-icon9 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.vector-icon9 {
+  height: 36.36%;
+  width: 5.39%;
+  top: 36.36%;
+  right: 0;
+  bottom: 27.27%;
+  left: 94.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.rectangle16 {
+  height: 100%;
+  width: 89.21%;
+  top: 0;
+  right: 10.79%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.rectangle17 {
+  position: absolute;
+  height: 63.64%;
+  width: 72.99%;
+  top: 18.18%;
+  right: 18.9%;
+  bottom: 18.18%;
+  left: 8.11%;
+  border-radius: 1.33px;
+  background-color: var(--color-black);
+}
+.group8 {
+  height: 25%;
+  width: 6.58%;
+  top: 38.64%;
+  right: 6.49%;
+  bottom: 36.36%;
+  left: 86.93%;
+}
+.div11,
+.frame8,
+.group8 {
+  position: absolute;
+}
+.div11 {
+  width: 100%;
+  top: calc(50% - 4.5px);
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame8 {
+  height: 47.73%;
+  width: 14.4%;
+  top: 15.91%;
+  right: 80%;
+  bottom: 36.36%;
+  left: 5.6%;
+}
+.status-bar8 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(20px);
+  width: 375px;
+  height: 44px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.back-icon6 {
+  position: absolute;
+  top: 61px;
+  left: 24px;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+}
+.line-42-stroke3 {
+  position: absolute;
+  top: 11px;
+  left: 115px;
+  width: 50px;
+  height: 8px;
+}
+.sign-up-with2 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  line-height: 18px;
+}
+.signup-uihut {
+  position: absolute;
+  top: 145px;
+  left: 105px;
+  width: 165px;
+  height: 19px;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  font-family: var(--font-raleway);
+}
+.your-email3 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  font-weight: 500;
+}
+.email-uihut-inner {
+  position: absolute;
+  top: 57.5px;
+  left: 0.5px;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+}
+.email-uihut2,
+.name-uihut-item {
+  position: absolute;
+  top: 369px;
+  left: 23px;
+  width: 328px;
+  height: 58px;
+}
+.name-uihut-item {
+  top: 57.5px;
+  left: 1.5px;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  height: 1px;
+}
+.name-uihut1 {
+  position: absolute;
+  top: 281px;
+  left: 22px;
+  width: 329px;
+  height: 58px;
+}
+.password-uihut-inner {
+  position: absolute;
+  top: 57.5px;
+  left: -0.5px;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 328px;
+  height: 1px;
+}
+.confirm-uihut,
+.password-uihut2 {
+  position: absolute;
+  top: 457px;
+  left: 24px;
+  width: 327px;
+  height: 58px;
+  text-align: left;
+}
+.confirm-uihut {
+  top: 545px;
+}
+.create-account-uihut-item {
+  position: absolute;
+  top: 0;
+  left: 0;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod);
+  width: 340px;
+  height: 54px;
+}
+.create-an-account1 {
+  position: absolute;
+  top: 15px;
+  left: 81px;
+  font-weight: 500;
+  display: inline-block;
+  width: 180px;
+  height: 24px;
+}
+.create-account-uihut1 {
+  position: absolute;
+  top: 721px;
+  left: 17px;
+  width: 340px;
+  height: 54px;
+  font-size: var(--font-size-xl);
+  font-family: var(--font-kumbh-sans);
+}
+.welcome-back-sign2 {
+  position: absolute;
+  top: 182px;
+  left: 41px;
+  letter-spacing: 0.1px;
+  line-height: 20px;
+  font-weight: 300;
+  display: inline-block;
+  width: 293px;
+}
+.mokx-logo-21 {
+  position: absolute;
+  top: 69px;
+  left: 148px;
+  width: 72px;
+  height: 64px;
+  object-fit: cover;
+}
+.sign-up {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-sm);
+  color: var(--color-darkslateblue);
+  font-family: var(--font-inter);
+}

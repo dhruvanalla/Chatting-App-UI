@@ -1,0 +1,130 @@
+.exclude-icon14,
+.exclude-icon15 {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.exclude-icon15 {
+  width: 15.33px;
+  height: 11px;
+}
+.rectangle14,
+.vector-icon8 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.vector-icon8 {
+  height: 36.36%;
+  width: 5.39%;
+  top: 36.36%;
+  right: 0;
+  bottom: 27.27%;
+  left: 94.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.rectangle14 {
+  height: 100%;
+  width: 89.21%;
+  top: 0;
+  right: 10.79%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.rectangle15 {
+  position: absolute;
+  height: 63.64%;
+  width: 72.99%;
+  top: 18.18%;
+  right: 18.9%;
+  bottom: 18.18%;
+  left: 8.11%;
+  border-radius: 1.33px;
+  background-color: var(--color-black);
+}
+.group7 {
+  height: 25%;
+  width: 6.58%;
+  top: 38.64%;
+  right: 6.49%;
+  bottom: 36.36%;
+  left: 86.93%;
+}
+.div10,
+.frame7,
+.group7 {
+  position: absolute;
+}
+.div10 {
+  width: 100%;
+  top: calc(50% - 4.5px);
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame7 {
+  height: 47.73%;
+  width: 14.4%;
+  top: 15.91%;
+  right: 80%;
+  bottom: 36.36%;
+  left: 5.6%;
+}
+.status-bar7 {
+  position: absolute;
+  top: 0;
+  left: 0;
+  backdrop-filter: blur(20px);
+  width: 375px;
+  height: 44px;
+}
+.mokx-logo-1 {
+  position: absolute;
+  top: 320px;
+  left: 101px;
+  width: 172px;
+  height: 172px;
+  object-fit: cover;
+}
+.back-to-vedas {
+  position: absolute;
+  top: 695px;
+  left: 40px;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  font-family: var(--font-kumbh-sans);
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 295px;
+}
+.back-to-vedas1{
+  position: absolute;
+  top: 720px;
+  left: 40px;
+  font-size:smaller;
+  font-weight: 600;
+  font-family: var(--font-kumbh-sans);
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 295px;
+
+}
+.splash {
+  position: relative;
+  background-color: var(--color-white);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}

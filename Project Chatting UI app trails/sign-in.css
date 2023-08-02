@@ -1,0 +1,257 @@
+.line-42-stroke2 {
+    position: absolute;
+    top: 13px;
+    left: 0;
+    width: 56px;
+    height: 8px;
+  }
+  .log-in-to1 {
+    position: absolute;
+    top: 0;
+    left: 1px;
+    line-height: 18px;
+  }
+  .login-text-uihut1 {
+    position: absolute;
+    top: 145px;
+    left: 107px;
+    width: 127px;
+    height: 21px;
+    text-align: left;
+    font-size: var(--font-size-lg);
+    font-family: var(--font-kumbh-sans);
+  }
+  .welcome-back-sign1 {
+    position: absolute;
+    top: 182px;
+    left: 41px;
+    letter-spacing: 0.1px;
+    line-height: 20px;
+    font-weight: 300;
+    display: inline-block;
+    width: 293px;
+  }
+  .or-child,
+  .or-item {
+    top: 6.5px;
+    border-top: 1px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 133px;
+    height: 1px;
+    opacity: 0.5;
+  }
+  .or-child {
+    position: absolute;
+    left: -0.5px;
+  }
+  .or-item {
+    left: 182.5px;
+  }
+  .or-item,
+  .or1,
+  .or2 {
+    position: absolute;
+  }
+  .or2 {
+    top: 0;
+    left: 147px;
+    letter-spacing: 0.1px;
+    line-height: 14px;
+    font-weight: 100;
+  }
+  .or1 {
+    top: 330px;
+    left: 30px;
+    width: 315px;
+    height: 14px;
+  }
+  .your-email2 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    letter-spacing: 0.1px;
+    line-height: 14px;
+    font-weight: 500;
+  }
+  .email-uihut-item {
+    position: absolute;
+    top: 57.5px;
+    left: 0.5px;
+    border-top: 1px solid var(--color-lightgray);
+    box-sizing: border-box;
+    width: 328px;
+    height: 1px;
+  }
+  .email-uihut1,
+  .password-uihut-item {
+    position: absolute;
+    top: 374px;
+    left: 23px;
+    width: 328px;
+    height: 58px;
+  }
+  .password-uihut-item {
+    top: 57.5px;
+    left: -0.5px;
+    border-top: 1px solid var(--color-lightgray);
+    box-sizing: border-box;
+    height: 1px;
+  }
+  .password-uihut1 {
+    position: absolute;
+    top: 462px;
+    left: 24px;
+    width: 327px;
+    height: 58px;
+    text-align: left;
+  }
+  .social-media-uihut-icon {
+    position: absolute;
+    top: 252px;
+    left: 95px;
+    width: 184px;
+    height: 48px;
+  }
+  .exclude-icon10,
+  .exclude-icon11 {
+    position: relative;
+    width: 17px;
+    height: 10.67px;
+  }
+  .exclude-icon11 {
+    width: 15.33px;
+    height: 11px;
+  }
+  .rectangle10,
+  .vector-icon6 {
+    position: absolute;
+    mix-blend-mode: normal;
+  }
+  .vector-icon6 {
+    height: 36.36%;
+    width: 5.39%;
+    top: 36.36%;
+    right: 0;
+    bottom: 27.27%;
+    left: 94.61%;
+    max-width: 100%;
+    overflow: hidden;
+    max-height: 100%;
+    opacity: 0.4;
+  }
+  .rectangle10 {
+    height: 100%;
+    width: 89.21%;
+    top: 0;
+    right: 10.79%;
+    bottom: 0;
+    left: 0;
+    border-radius: 2.67px;
+    border: 1px solid var(--color-black);
+    box-sizing: border-box;
+    opacity: 0.35;
+  }
+  .rectangle11 {
+    position: absolute;
+    height: 63.64%;
+    width: 72.99%;
+    top: 18.18%;
+    right: 18.9%;
+    bottom: 18.18%;
+    left: 8.11%;
+    border-radius: 1.33px;
+    background-color: var(--color-black);
+  }
+  .group5 {
+    height: 25%;
+    width: 6.58%;
+    top: 38.64%;
+    right: 6.49%;
+    bottom: 36.36%;
+    left: 86.93%;
+  }
+  .div8,
+  .frame5,
+  .group5 {
+    position: absolute;
+  }
+  .div8 {
+    width: 100%;
+    top: calc(50% - 4.5px);
+    left: 0;
+    letter-spacing: -0.24px;
+    line-height: 20px;
+    font-weight: 500;
+    display: inline-block;
+  }
+  .frame5 {
+    height: 47.73%;
+    width: 14.4%;
+    top: 15.91%;
+    right: 80%;
+    bottom: 36.36%;
+    left: 5.6%;
+  }
+  .status-bar5 {
+    position: absolute;
+    top: 0;
+    left: 0;
+    backdrop-filter: blur(20px);
+    width: 375px;
+    height: 44px;
+    font-size: var(--font-size-mini);
+    color: var(--color-black);
+    font-family: var(--font-roboto);
+  }
+  .back-icon5 {
+    position: absolute;
+    top: 61px;
+    left: 24px;
+    width: 24px;
+    height: 24px;
+    overflow: hidden;
+  }
+  .sign-in-child {
+    position: absolute;
+    top: 677px;
+    left: 16px;
+    border-radius: var(--br-3xs);
+    background-color: var(--color-navajowhite);
+    width: 340px;
+    height: 54px;
+  }
+  .forgot-password1,
+  .login1 {
+    position: absolute;
+    font-size: var(--font-size-xl);
+    font-family: var(--font-kumbh-sans);
+  }
+  .login1 {
+    top: 692px;
+    left: 98px;
+    font-weight: 500;
+    color: #eda0a8;
+    display: inline-block;
+    width: 180px;
+    height: 24px; 
+  }
+  .forgot-password1 {
+    top: 761px;
+    left: 111px;
+    letter-spacing: 0.1px;
+    line-height: 14px;
+    color: orange;
+    text-align: left;
+  }
+  .sign-in {
+    position: relative;
+    background-color: var(--color-white);
+    width: 100%;
+    height: 812px;
+    overflow: hidden;
+    text-align: center;
+    font-size: var(--font-size-sm);
+    color: var(--color-darkslateblue);
+    font-family: var(--font-inter);
+  }
+  

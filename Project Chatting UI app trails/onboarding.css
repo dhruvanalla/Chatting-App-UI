@@ -1,0 +1,246 @@
+.exclude-icon12,
+.exclude-icon13 {
+  position: relative;
+  width: 17px;
+  height: 10.67px;
+}
+.exclude-icon13 {
+  width: 15.33px;
+  height: 11px;
+}
+.rectangle12,
+.vector-icon7 {
+  position: absolute;
+  mix-blend-mode: normal;
+}
+.vector-icon7 {
+  height: 36.36%;
+  width: 5.39%;
+  top: 36.36%;
+  right: 0;
+  bottom: 27.27%;
+  left: 94.61%;
+  max-width: 100%;
+  overflow: hidden;
+  max-height: 100%;
+  opacity: 0.4;
+}
+.rectangle12 {
+  height: 100%;
+  width: 89.21%;
+  top: 0;
+  right: 10.79%;
+  bottom: 0;
+  left: 0;
+  border-radius: 2.67px;
+  border: 1px solid var(--color-black);
+  box-sizing: border-box;
+  opacity: 0.35;
+}
+.rectangle13 {
+  position: absolute;
+  height: 63.64%;
+  width: 72.99%;
+  top: 18.18%;
+  right: 18.9%;
+  bottom: 18.18%;
+  left: 8.11%;
+  border-radius: 1.33px;
+  background-color: var(--color-black);
+}
+.group6 {
+  height: 25%;
+  width: 6.58%;
+  top: 38.64%;
+  right: 6.49%;
+  bottom: 36.36%;
+  left: 86.93%;
+}
+.div9,
+.frame6,
+.group6 {
+  position: absolute;
+}
+.div9 {
+  width: 100%;
+  top: calc(50% - 4.5px);
+  left: 0;
+  letter-spacing: -0.24px;
+  line-height: 20px;
+  font-weight: 500;
+  display: inline-block;
+}
+.frame6 {
+  height: 47.73%;
+  width: 14.4%;
+  top: 15.91%;
+  right: 80%;
+  bottom: 36.36%;
+  left: 5.6%;
+}
+.status-bar6 {
+  position: absolute;
+  top: 0;
+  left: 8px;
+  backdrop-filter: blur(20px);
+  width: 375px;
+  height: 44px;
+  font-size: var(--font-size-mini);
+  color: var(--color-black);
+  font-family: var(--font-roboto);
+}
+.onboarding-child {
+  position: absolute;
+  top: 379.34px;
+  left: -26.99px;
+  background-color: var(--color-darkslateblue);
+  width: 429.24px;
+  height: 438.61px;
+  transform: rotate(-0.12deg);
+  transform-origin: 0 0;
+}
+.the-vedas {
+  color: var(--color-goldenrod);
+}
+.discover-the-timeless-wisdom-o {
+  margin: 0;
+}
+.discover-the-timeless-container {
+  position: absolute;
+  top: 384px;
+  left: 39px;
+  font-size: 32px;
+  font-weight: 600;
+  text-align: left;
+  display: inline-block;
+  width: 291px;
+  height: 85px;
+}
+.journey-through-ancient {
+  color: var(--color-orange);
+}
+.sign-up-and-container {
+  position: absolute;
+  top: 510px;
+  left: 44px;
+  line-height: 26px;
+  font-weight: 300;
+  font-family: var(--font-inter);
+  text-align: left;
+  display: inline-block;
+  width: 298px;
+  mix-blend-mode: normal;
+}
+.onboarding-item {
+  position: absolute;
+  top: 677px;
+  left: 23px;
+  border-radius: var(--br-3xs);
+  background-color: var(--color-goldenrod);
+  width: 340px;
+  height: 54px;
+}
+.sign-up-with1 {
+  position: absolute;
+  top: 692px;
+  left: 98px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  color: var(--color-darkslateblue);
+  display: inline-block;
+  width: 180px;
+  height: 24px;
+}
+.line-div,
+.or-uihut-inner {
+  top: 6.5px;
+  border-top: 1px solid var(--color-lightgray);
+  box-sizing: border-box;
+  width: 133px;
+  height: 1px;
+  opacity: 0.2;
+}
+.or-uihut-inner {
+  position: absolute;
+  left: -0.5px;
+}
+.line-div {
+  left: 182.5px;
+}
+.line-div,
+.or-uihut1,
+.or3 {
+  position: absolute;
+}
+.or3 {
+  top: 0;
+  left: 147px;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  font-weight: 100;
+}
+.or-uihut1 {
+  top: 649px;
+  left: 31px;
+  width: 315px;
+  height: 14px;
+  font-size: var(--font-size-sm);
+  font-family: var(--font-inter);
+}
+.social-uihut-icon1 {
+  position: absolute;
+  top: 587px;
+  left: 96px;
+  width: 184px;
+  height: 48px;
+}
+.existing-account-log-container {
+  position: absolute;
+  top: 756px;
+  left: 76px;
+  font-size: var(--font-size-xl);
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  text-align: left;
+}
+.cartoon-image-of-indian-girl-d-icon {
+  position: absolute;
+  top: 43px;
+  left: 0;
+  border-radius: 4px;
+  width: 378px;
+  height: 304px;
+  object-fit: cover;
+}
+.onboarding-inner {
+  position: absolute;
+  top: 326.06px;
+  left: 90.88px;
+  border-radius: 5.63px;
+  width: 191.25px;
+  height: 30.38px;
+}
+.arya-ai-acharya {
+  background-color: aliceblue;
+  position: absolute;
+  top: 331px;
+  left: 121px;
+  letter-spacing: 0.1px;
+  line-height: 14px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-darkslateblue);
+  font-weight: bold;
+  
+}
+.onboarding {
+  position: relative;
+  background-color: var(--color-darkslateblue);
+  width: 100%;
+  height: 812px;
+  overflow: hidden;
+  text-align: center;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  font-family: var(--font-kumbh-sans);
+}

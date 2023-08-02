@@ -1,0 +1,51 @@
+body {
+    margin: 0;
+    line-height: normal;
+  }
+  
+  :root {
+    /* fonts */
+    --font-inter: Inter;
+    --font-raleway: Raleway;
+    --font-mukta: Mukta;
+    --font-roboto: Roboto;
+    --font-abeezee: ABeeZee;
+    --font-kumbh-sans: "Kumbh Sans";
+    --font-poppins: Poppins;
+  
+    /* font sizes */
+    --font-size-smi: 13px;
+    --font-size-xs: 12px;
+    --font-size-3xs: 10px;
+    --font-size-base: 16px;
+    --font-size-mini: 15px;
+    --font-size-xl: 20px;
+    --font-size-sm: 14px;
+    --font-size-lg: 18px;
+  
+    /* Colors */
+    --color-ghostwhite: #f8f8ff;
+    --color-white: #fff;
+    --color-darkgray: #a1a1a1;
+    --color-darkslateblue: #69235b;
+    --color-gray-100: #f8fbfa;
+    --color-gray-200: #797c7b;
+    --color-gray-300: #000e08;
+    --color-orange: #fbbc04;
+    --color-navajowhite: #fbdc94;
+    --color-mediumspringgreen: #2bef83;
+    --color-black: #000;
+    --color-goldenrod: #ffc746;
+    --color-lightgray: #cdd1d0;
+    --color-red: #ff2d1b;
+  
+    /* border radiuses */
+    --br-11xl: 30px;
+    --br-7xs: 6px;
+    --br-12xl: 31px;
+    --br-11xs-3: 1.3px;
+    --br-10xs-7: 2.7px;
+    --br-lgi: 19px;
+    --br-3xs: 10px;
+  }
+  
